@@ -2,3 +2,5 @@
 "delvierychingaw.duckdns.org" "event.eventbrite.com"
 
 
+"delvierychingaw.duckdns.org" "SinEtiqueta"
+"event.eventbrite.com" "SinEtiqueta"
