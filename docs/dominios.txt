@@ -1,4 +1,2 @@
-"delvierychingaw.duckdns" "duckdns"
-"event.eventbrite" "eventbrite"
 "delvierychingaw.duckdns.org" "Duckdns"
 "event.eventbrite.com" "Eventbrite"
