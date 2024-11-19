@@ -6,3 +6,4 @@
 "event.eventbrite.com" "SinEtiqueta"
 "delvierychingaw.duckdns.org" "SinEtiqueta"
 "event.eventbrite.com" "SinEtiqueta"
+"delvierychingaw.duckdns.org" "event.eventbrite.com"
