@@ -1,2 +1,4 @@
 "delvierychingaw.duckdns" "duckdns"
 "event.eventbrite" "eventbrite"
+"delvierychingaw.duckdns" "duckdns"
+"event.eventbrite" "eventbrite"
