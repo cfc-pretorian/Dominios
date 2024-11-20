@@ -1,8 +1,3 @@
-"delvierychingaw.duckdns.org" "Duckdns"
-"event.eventbrite.com" "Eventbrite"
-"delvierychingaw.duckdns.org" "Duckdns"
-"event.eventbrite.com" "Eventbrite"
-"delvierychingaw.duckdns.org" "Duckdns"
-"event.eventbrite.com" "Eventbrite"
+type=string
 "delvierychingaw.duckdns.org" "Duckdns"
 "event.eventbrite.com" "Eventbrite"
