@@ -1,3 +1,8 @@
 type=string
 "delvierychingaw.duckdns.org" "Duckdns"
 "event.eventbrite.com" "Eventbrite"
+"12301230.co" "Co"
+"40031.co" "Co"
+"grabify.link" "Link"
+"samuelelena.co" "Co"
+"uelelena.co" "Co"
