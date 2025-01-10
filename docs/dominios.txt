@@ -2799,3 +2799,5 @@ type=string
 "brownieyuz.sbs" "Sbs"
 "slippyhost.cfd" "Cfd"
 "ducksringjk.sbs" "Sbs"
+"mffaccessories.com" "Com"
+"quinceisoz.cam" "Cam"
