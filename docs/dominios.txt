@@ -2833,3 +2833,4 @@ type=string
 "brownieyuz.sbs" "Sbs"
 "slippyhost.cfd" "Cfd"
 "ducksringjk.sbs" "Sbs"
+"https://y2kid.xyz/" "Xyz/"
