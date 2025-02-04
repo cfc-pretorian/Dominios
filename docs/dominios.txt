@@ -1,4 +1,3 @@
-
 type=string
 "delvierychingaw.duckdns.org" "Duckdns"
 "event.eventbrite.com" "Eventbrite"
