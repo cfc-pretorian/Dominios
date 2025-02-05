@@ -36,3 +36,4 @@ type=string
 "mffaccessories.com" "Com"
 "quinceisoz.cam" "Cam"
 "https://y2kid.xyz/" "Xyz/"
+"http://sadonsgithub.site/" "Site/"
