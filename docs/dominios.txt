@@ -68,3 +68,7 @@ type=string
 "brownieyuz.sbs" "Sbs"
 "slippyhost.cfd" "Cfd"
 "ducksringjk.sbs" "Sbs"
+"remaxnoc.com" "Com"
+"mx.page.jp.eu.org" "Page"
+"nicefeide.top" "Top"
+"tynifinilam.com" "Com"
