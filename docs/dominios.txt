@@ -72,3 +72,5 @@ type=string
 "mx.page.jp.eu.org" "Page"
 "nicefeide.top" "Top"
 "tynifinilam.com" "Com"
+"metroprivateprotection.com" "Com"
+"nifty.com" "Com"
